@@ -1,0 +1,7 @@
+// import the following files
+@import 'variables';
+@import 'mixins';
+
+// include the following mixins
+@include design;
+@include responsive;
